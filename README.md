@@ -19,7 +19,7 @@ The system is designed with a clear separation of backend logic and can be easil
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - Python
 - Django
 - Django REST Framework
@@ -28,7 +28,7 @@ The system is designed with a clear separation of backend logic and can be easil
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 employee_system/
 │
 ├── employee_app/
